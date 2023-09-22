@@ -20,3 +20,10 @@ _The game uses textures that I had stored locally on my computer, so, textures m
 
 ![image](https://github.com/AndrewSuyer/Java-Platform-Runner/assets/118581166/82d9dff6-ed8f-4827-8082-6ed5bcb5c6d4)
 > A part of world 2 level 4, a cave themed level. The player has just landed on a spike and died!
+
+## How its made
+The most interesting part of the development of this game is the level creation. If you looked into the code, you would notice every block of every level is placed manually. I obviously didnt write the thousands of lines of code manually. Instead, I used google sheets to plan out each level, then I used a script to generate the code. 
+
+Each block in the game is represented by a color in google sheets. When creating a level, I would draw it out (literally) in google sheets using the colors I defined. Here are some pictures of what that looked like:
+
+![Screenshot_20230922_153657](https://github.com/AndrewSuyer/Java-Platform-Runner/assets/118581166/f4fe25b3-02f1-4929-b638-84982caaaf4b)
