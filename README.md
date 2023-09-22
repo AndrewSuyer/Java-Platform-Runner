@@ -27,3 +27,9 @@ The most interesting part of the development of this game is the level creation.
 Each block in the game is represented by a color in google sheets. When creating a level, I would draw it out (literally) in google sheets using the colors I defined. Here are some pictures of what that looked like:
 
 ![Screenshot_20230922_153657](https://github.com/AndrewSuyer/Java-Platform-Runner/assets/118581166/f4fe25b3-02f1-4929-b638-84982caaaf4b)
+
+![Screenshot_20230922_153830](https://github.com/AndrewSuyer/Java-Platform-Runner/assets/118581166/92f5766e-1a7c-44d4-9d14-1231e1f72dc0)
+
+![Screenshot_20230922_153920](https://github.com/AndrewSuyer/Java-Platform-Runner/assets/118581166/a8379579-75bd-4174-837a-af048aa5b79b)
+
+Once I had a level I was happy with, I would use a script that generated the many hundereds of lines of code into a google doc. I would then paste this code into my project and make little modifications as needed. 
