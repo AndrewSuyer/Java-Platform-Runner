@@ -1,13 +1,17 @@
 # Java-Platform-Runner
 A platformer game I made for my final project in AP computer science A, which I took in junior year. This project is written entirely in Java and uses the swing library for graphics.
 
-_The game uses textures that I had stored locally on my computer, so, textures may not load properly if you try to download and play this game on your own computer._
-
 ## Features
   - 2 "worlds" each containing 4 levels for a total of 8 levels.
   - Realistic player movement using kinematics equations
   - Animated player movements (walking, jumping, squatting)
   - 6 types of blocks (solid, breakable, transparent, deadly, background, and other)
+
+## Controls
+Use the arrow keys to move:
+- Up: jump
+- Down: squat
+- Left/Right: horizontal movement
 
 ## Pictures
 ![image](https://github.com/AndrewSuyer/Java-Platform-Runner/assets/118581166/6580594e-0d53-476d-a1a7-f8568d56e44b)
